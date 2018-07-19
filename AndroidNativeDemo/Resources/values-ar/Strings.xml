@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidNativeDemo</string>
+    <string name="action_settings">إعدادات</string>
+  <string name="attendance">الحضور</string>
+  <string name="attendancelabel">الحضور %0</string>
+  <string name="thisweek">هذا الاسبوع</string>
+  <string name="lastweek">الاسبوع الماضى</string>
+  <string name="shortleave">إجازة قصيرة</string>
+  <string name="sickleave">أجازة مرضية</string>
+  <string name="annualleave">اجازة سنويه</string>
+  <string name="viewhistory">عرض السجل</string>
+  <string name="colleagues">كل زملائي</string>
+  <string name="seeall">اظهار الكل</string>
+  <string name="favorites">المفضلة</string>
+</resources>
